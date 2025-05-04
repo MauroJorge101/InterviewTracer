@@ -1,3 +1,6 @@
+# Disclaimer
+All rights reserved to the Names/Companies used in this app. All Apis used in this app do not make more than they should, only what I have permission to do. 
+
 # InterviewTracer
 I had this idea because I'm now looking for a job and it's hard to maintain and control the ammount of interviews I have in a month...
 
